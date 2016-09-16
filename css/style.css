@@ -1,1 +1,17 @@
 /* file for your css */
+
+h1{
+  background-color: yellow;
+}
+
+h5{
+  text-align: center;
+}
+
+li{
+  list-style: none;
+}
+
+.grey{
+  background-color: grey;
+}
